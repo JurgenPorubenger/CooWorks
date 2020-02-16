@@ -11,7 +11,9 @@
   <component name="ProjectId" id="1XtAAeDMVUaFu001ibyaIiLbgAY" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/STUDY/CooWorks" />
+    <property name="ignore_missing_gitignore" value="true" />
+    <property name="javascript.nodejs.core.library.configured.version" value="10.15.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../CooWorks/server/koa_server/api/todos" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -24,7 +26,11 @@
     <property name="settings.editor.selected.configurable" value="MTConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../CooWorks/server/koa_server/api/todos" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../CooWorks" />
       <recent name="$PROJECT_DIR$/client/todos" />
       <recent name="$PROJECT_DIR$/client" />
       <recent name="$PROJECT_DIR$" />
@@ -55,7 +61,7 @@
       <updated>1581854874763</updated>
       <workItem from="1581854875912" duration="66000" />
       <workItem from="1581854957291" duration="43000" />
-      <workItem from="1581855017908" duration="2477000" />
+      <workItem from="1581855017908" duration="14295000" />
     </task>
     <servers />
   </component>
