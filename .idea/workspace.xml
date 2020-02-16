@@ -8,12 +8,19 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package.json" />
+      </list>
+    </option>
+  </component>
   <component name="ProjectId" id="1XtAAeDMVUaFu001ibyaIiLbgAY" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="ignore_missing_gitignore" value="true" />
     <property name="javascript.nodejs.core.library.configured.version" value="10.15.2" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../CooWorks/server/koa_server/api/todos" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../CooWorks/server" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -27,6 +34,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../CooWorks/server" />
       <recent name="$PROJECT_DIR$/../CooWorks/server/koa_server/api/todos" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -61,7 +69,7 @@
       <updated>1581854874763</updated>
       <workItem from="1581854875912" duration="66000" />
       <workItem from="1581854957291" duration="43000" />
-      <workItem from="1581855017908" duration="14295000" />
+      <workItem from="1581855017908" duration="16081000" />
     </task>
     <servers />
   </component>
